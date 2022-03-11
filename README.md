@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Giri</h1>
-<h3 align="center">An Aspiring frontend developer from India</h3>
+<h3 align="center">An Aspiring frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshgiri2&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgiri2" /> </p>
 
